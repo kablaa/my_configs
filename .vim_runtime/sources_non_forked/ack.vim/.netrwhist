@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/opt/local/etc/macports'
+let g:netrw_dirhist_2='/Users/tylerlukasiewicz/skewl/MAP4384/quiz1/images'
+let g:netrw_dirhist_3='/Users/tylerlukasiewicz/hackery/git/make.py/.git'
+let g:netrw_dirhist_4='/Users/tylerlukasiewicz/skewl/MAP4384/recursion.py'
+let g:netrw_dirhist_5='/Users/tylerlukasiewicz/.vim/syntax'
