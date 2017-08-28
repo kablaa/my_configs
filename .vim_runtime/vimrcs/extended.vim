@@ -144,6 +144,7 @@ map <C-h> gT
 map <leader><space> ?
 
 nmap <silent> <F3> :NERDTreeToggle<CR>
+au BufReadPost *.bt set syntax=c
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
